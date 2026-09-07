@@ -1,0 +1,18 @@
+{
+  "siteName": "Desa Nyalian",
+  "tagline": "Sebuah desa di Kabupaten Klungkung yang memadukan keindahan alam, warisan budaya, tradisi Hindu Bali, dan kehidupan masyarakat yang terus lestari sebagai bagian dari identitasnya.",
+  "description": "Kunjungi kami untuk mengalami kehidupan desa yang autentik, dengan ritual keagamaan yang masih hidup, pemandangan persawahan yang indah, dan keramahan masyarakat Nyalian yang tulus.",
+  "email": "info@nyalianvillage.com",
+  "phone": "+62 366 123456",
+  "whatsapp": "+62 812 3456 7890",
+  "address": "Desa Nyalian, Kecamatan Banjarangkan, Kabupaten Klungkung, Bali, Indonesia",
+  "latitude": -8.4993,
+  "longitude": 115.3673,
+  "googleMapsEmbed": "https://www.google.com/maps?q=-8.4993,115.3673&hl=id&z=15&output=embed",
+  "socialMedia": {
+    "instagram": "https://instagram.com/nyalianvillage",
+    "facebook": "https://facebook.com/nyalianvillage",
+    "youtube": "https://youtube.com/@nyalianvillage",
+    "tiktok": "https://tiktok.com/@nyalianvillage"
+  }
+}

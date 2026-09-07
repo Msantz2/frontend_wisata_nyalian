@@ -1,0 +1,362 @@
+[
+  {
+    "id": "PKG001",
+    "slug": "nyalian-heritage-morning",
+    "name": "Nyalian Heritage Morning",
+    "category": "Pariwisata Budaya & Warisan",
+    "shortDescription": "Selami warisan kerajaan Nyalian — jalan terpandu melalui Puri Agung Nyalian dengan pertunjukan teater Arja.",
+    "description": "Rasakan warisan kerajaan Nyalian di sumbernya. Paket budaya setengah hari ini membawa Anda ke dalam Puri Agung Nyalian, kediaman kerajaan bersejarah yang dikenang secara lokal sebagai pusat Kerajaan Klungkung Barat. Jalan terpandu melalui arsitektur bersejarah dan halaman puri mengungkap kisah pendiri Nyalian dan peran rumah kerajaan dalam melestarikan budaya Bali. Puncaknya adalah kutipan pertunjukan Arja Gede Garong langsung — tradisi teater rakyat khas Nyalian, pertama kali dipentaskan di sini pada tahun 1950-an oleh Ida Tjokorda Gede Putra. Ini adalah satu-satunya tempat di Bali di mana Anda dapat mempelajari kisah asal Arja langsung di tempat kelahirannya. Paket ini mencakup format bercerita pimpinan kelompok kecil dengan hidangan tradisional Bali.",
+    "thumbnail": "/images/Desa Nyalian_1.webp",
+    "gallery": [
+      "/images/Desa Nyalian_2.webp",
+      "/images/Desa Nyalian_3.webp",
+      "/images/Desa Nyalian_4.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Setengah hari, kira-kira 4 jam (08:00–12:00)",
+    "capacity": "2–15 orang",
+    "highlights": [
+      "Satu-satunya tempat di Bali untuk mempelajari kisah asal Arja di tempat kelahirannya",
+      "Akses ke kediaman kerajaan yang masih dihuni, bukan museum statis",
+      "Kutipan pertunjukan Arja Gede Garong langsung",
+      "Sesi bercerita terpandu tentang pendiri Nyalian",
+      "Pengalaman budaya kelompok kecil",
+      "Hidangan tradisional Bali disertakan"
+    ],
+    "itinerary": [
+      "08:00 - Sambutan dan orientasi di halaman luar Puri Agung Nyalian",
+      "08:15 - Jalan terpandu melalui arsitektur bersejarah dan halaman puri",
+      "09:00 - Sesi bercerita: pendiri Nyalian dan peran Puri sebagai pusat Kerajaan Klungkung Barat bersejarah",
+      "09:45 - Kutipan pertunjukan budaya Arja Gede Garong oleh praktisi lokal",
+      "11:00 - Tanya jawab dengan pemandu budaya lokal",
+      "11:30 - Hidangan tradisional ringan (camilan Bali dan kopi/teh)",
+      "12:00 - Akhir tur"
+    ],
+    "included": [
+      "Pemandu budaya lokal",
+      "Sumbangan masuk/sopan santun ke Puri Agung Nyalian",
+      "Kutipan pertunjukan Arja Gede Garong",
+      "Hidangan tradisional Bali (camilan dan kopi/teh)"
+    ],
+    "excluded": [
+      "Transportasi ke/dari Desa Nyalian",
+      "Pengeluaran pribadi",
+      "Tip untuk pemandu (opsional)"
+    ],
+    "destinations": ["DST001"],
+    "rating": 0,
+    "featured": true
+  },
+  {
+    "id": "PKG002",
+    "slug": "sacred-waters-melukat-experience",
+    "name": "Pengalaman Melukat Perairan Suci",
+    "category": "Pariwisata Spiritual",
+    "shortDescription": "Upacara melukat terpandu pada mata air suci tepi jurang Nyalian.",
+    "description": "Temukan pembaruan spiritual di Pura Tirta Tadah Uwug, sebuah mata air suci yang tertanam di tepi jurang timur lembah sungai Tukad Melangit. Pengalaman spiritual setengah hari ini menawarkan melukat (mandi pemurnian) terpandu di mata air yang genuinely suci, masih aktif — bukan pengalaman spa yang dibangun. Situs ini memegang 10 muara (pancoran) secara total, dengan 9 digunakan untuk melukat dan 1 disediakan untuk upacara pemakaman. 5 muara atas terkait dengan panca maha bhuta (lima elemen besar), sementara muara bawah terkait dengan tulang, sumsum, kulit, dan darah. Pemandu atau pemangku lokal memimpin Anda melalui ritual, menjelaskan makna simbolis dan etika yang tepat. Setelah upacara, nikmati waktu refleksi sunyi di samping sungai dan hidangan di Tadah Uwuk Coffee and Eatery. Opsi kelompok kecil dan pribadi tersedia untuk kecepatan yang lebih personal dan kontemplat.",
+    "thumbnail": "/images/Pura Tirta Tadah Uwuk_1.webp",
+    "gallery": [
+      "/images/Pura Tirta Tadah Uwuk_2.webp",
+      "/images/Pura Tirta Tadah Uwuk_3.webp",
+      "/images/Pura Tirta Tadah Uwuk_4.webp",
+      "/images/Pura Tirta Tadah Uwuk_5.webp",
+      "/images/Pura Tirta Tadah Uwuk_6.webp",
+      "/images/Pura Tirta Tadah Uwuk_7.webp",
+      "/images/Pura Tirta Tadah Uwuk_8.webp",
+      "/images/Pura Tirta Tadah Uwuk_9.webp",
+      "/images/Pura Tirta Tadah Uwuk_10.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Setengah hari, kira-kira 3 jam (07:00–10:00, pagi sangat disarankan)",
+    "capacity": "1–10 orang",
+    "highlights": [
+      "Mata air yang genuinely suci, masih aktif — bukan spa yang dibangun",
+      "Upacara melukat terpandu pada kompleks mandi 10-muara",
+      "Pelajari makna simbolis setiap pancoran",
+      "Waktu refleksi sunyi di samping sungai Tukad Melangit",
+      "Hidangan pasca-ritual di Tadah Uwuk Coffee and Eatery",
+      "Opsi kelompok kecil dan pribadi tersedia"
+    ],
+    "itinerary": [
+      "07:00 - Bertemu di area parkir Pura Tirta Tadah Uwug",
+      "07:10 - Orientasi singkat tentang etika melukat dan makna spiritual situs",
+      "07:20 - Turun tangga batu ke kompleks mandi",
+      "07:30 - Upacara melukat pemurnian terpandu di muara yang ditunjuk, dipimpin oleh pemangku lokal atau pemandu terlatih",
+      "08:30 - Waktu refleksi sunyi di samping sungai",
+      "09:00 - Istirahat pasca-ritual dan hidangan di Tadah Uwuk Coffee and Eatery",
+      "10:00 - Akhir pengalaman"
+    ],
+    "included": [
+      "Pemandu lokal atau pemangku untuk fasilitasi ritual",
+      "Bahan persembahan dasar (canang/sarana)",
+      "Satu minuman di Tadah Uwuk Coffee and Eatery",
+      "Penyewaan sarung/kamen jika diperlukan"
+    ],
+    "excluded": [
+      "Transportasi ke/dari situs",
+      "Makanan dan minuman tambahan",
+      "Sumbangan pribadi (opsional)",
+      "Handuk (silakan bawa milik Anda sendiri)"
+    ],
+    "destinations": ["DST002"],
+    "rating": 0,
+    "featured": true
+  },
+  {
+    "id": "PKG003",
+    "slug": "nyalian-full-day-discovery",
+    "name": "Penemuan Nyalian Seharian Penuh",
+    "category": "Pengalaman Gabungan",
+    "shortDescription": "Pengalaman Nyalian yang lengkap dalam sehari — warisan, spiritualitas, dan alam, dengan makan siang masakan rumahan.",
+    "description": "Tinjauan seharian penuh yang paling lengkap dari tiga Pilar Pengalaman Pengunjung utama Nyalian. Paket immersive seharian ini menggabungkan warisan kerajaan di Puri Agung Nyalian, pemurnian spiritual di Pura Tirta Tadah Uwug, dan погружение alam sepanjang lembah Tukad Melangit dan terasering padi. Sempurna untuk pengunjung pertama kali yang menginginkan pengenalan menyeluruh terhadap desa, atau penjelajah dengan waktu terbatas yang menginginkan kedalaman tanpa komitmen multi-hari. Paket ini mencakup makan siang masakan rumahan autentik di rumah keluarga lokal, secara langsung mendukung mata pencaharian desa. Kecepatan yang baik memastikan Anda mengalami spektrum lengkap atraksi Nyalian sambil mempertahankan irama kontemplat yang tidak tergesa-gesa.",
+    "thumbnail": "/images/Desa Nyalian_5.webp",
+    "gallery": [
+      "/images/Pura Tirta Tadah Uwuk_6.webp",
+      "/images/Pura Tirta Tadah Uwuk_7.webp",
+      "/images/Pura Tirta Tadah Uwuk_8.webp",
+      "/images/Desa Nyalian_6.webp",
+      "/images/Desa Nyalian_7.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Seharian penuh, kira-kira 8 jam (08:00–16:00)",
+    "capacity": "2–20 orang",
+    "highlights": [
+      "Tinjauan lengkap dari tiga Pilar Pengalaman Pengunjung utama Nyalian",
+      "Jalan warisan kerajaan di Puri Agung Nyalian",
+      "Melukat pemurnian di mata air suci tepi jurang",
+      "Jalan terasering padi dan lembah dengan berhenti fotografi",
+      "Makan siang Bali masakan rumahan autentik di rumah keluarga lokal",
+      "Pemandu lokal seharian penuh"
+    ],
+    "itinerary": [
+      "08:00 - Puri Agung Nyalian: jalan warisan terpandu dan sesi kisah pendiri",
+      "09:30 - Perjalanan ke tepi lembah Tukad Melangit",
+      "10:00 - Jalan terasering padi dan lembah yang indah dengan berhenti fotografi",
+      "11:00 - Makan siang Bali tradisional di rumah keluarga lokal/warung",
+      "12:30 - Pura Tirta Tadah Uwug: pengalaman melukat",
+      "14:00 - Istirahat dan hidangan di Tadah Uwuk Coffee and Eatery",
+      "15:00 - Kembali dan sesi penutup dengan pemandu lokal",
+      "16:00 - Akhir tur"
+    ],
+    "included": [
+      "Pemandu lokal seharian penuh",
+      "Semua sumbangan masuk dan sopan santun",
+      "Makan siang Bali tradisional di rumah keluarga lokal",
+      "Fasilitasi melukat dengan bahan persembahan",
+      "Hidangan di Tadah Uwuk Coffee and Eatery"
+    ],
+    "excluded": [
+      "Transportasi ke/dari Desa Nyalian (dapat diatur sebagai add-on)",
+      "Pengeluaran pribadi",
+      "Tip untuk pemandu (opsional)"
+    ],
+    "destinations": ["DST001", "DST002", "DST004"],
+    "rating": 0,
+    "featured": true
+  },
+  {
+    "id": "PKG004",
+    "slug": "tukad-melangit-trekking-tirta-harum",
+    "name": "Trekking Tukad Melangit & Tirta Harum",
+    "category": "Alam & Pertanian",
+    "shortDescription": "Trek candi hutan paling tersembunyi di Bali — sepanjang ravine Tukad Melangit ke candi klan tersembunyi.",
+    "description": "Berjalan melalui ravine sungai Tukad Melangit untuk mencapai Pura Tirta Harum, sebuah candi hutan tersembunyi di perbatasan antara Nyalian dan Tamanbali tetangga. Petualangan setengah hari ini menawarkan kombinasi alam-dan-warisan paling immersive Nyalian — aktivitas fisik asli dipasangkan dengan kedalaman budaya. Pura Tirta Harum adalah candi kawitan (asal-klan) dari keluarga besar Mahagotra Tirta Harum, terletak di dalam terrain hutan di tepi lembah Tukad Melangit. Candi hanya dapat diakses dengan berjalan kaki, menciptakan pengalaman petualangan yang off-the-beaten-path. Pemandu Anda memandu Anda melalui terrain hutan dan ravine yang tidak teratur, dengan berhenti di titik pandang yang indah. Paket ini direkomendasikan untuk penjelajah aktif, pendaki, dan fotografer alam yang nyaman dengan trekking hutan. Kelompok kecil disukai untuk melestarikan karakter situs yang sunyi.",
+    "thumbnail": "/images/Pura Tirtha Harum_1.webp",
+    "gallery": [
+      "/images/Pura Tirtha Harum_2.webp",
+      "/images/Pura Tirtha Harum_3.webp",
+      "/images/Pura Tirtha Harum_4.webp",
+      "/images/Pura Tirtha Harum_5.webp",
+      "/images/Pura Tirtha Harum_6.webp",
+      "/images/Pura Tirtha Harum_7.webp",
+      "/images/Pura Tirtha Harum_8.webp",
+      "/images/Desa Nyalian_8.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Setengah hari, kira-kira 4–5 jam (07:00–11:30/12:00, mulai awal sangat disarankan)",
+    "capacity": "2–10 orang",
+    "highlights": [
+      "Trek candi hutan paling tersembunyi di Bali",
+      "Aktivitas fisik asli dipasangkan dengan kedalaman budaya",
+      "Trek sepanjang ravine Tukad Melangit melalui terrain hutan",
+      "Kunjungan ke Pura Tirta Harum, sebuah candi kawitan (asal-klan) tersembunyi",
+      "Titik pandang ravine yang indah",
+      "Format kelompok kecil, diperlukan pemandu"
+    ],
+    "itinerary": [
+      "07:00 - Bertemu di trailhead sisi Nyalian, briefing keselamatan dan etika",
+      "07:15 - Mulai trek sepanjang ravine Tukad Melangit melalui terrain hutan",
+      "08:30 - Tiba di Pura Tirta Harum: penjelasan terpandu tentang peran situs sebagai candi kawitan",
+      "09:00 - Kunjungan area luar yang dihormati dan refleksi sunyi",
+      "09:30 - Mulai trek kembali dengan berhenti di titik pandang ravine yang indah",
+      "11:00 - Camilan trek ringan dan istirahat air",
+      "11:30 - Kembali ke trailhead, akhir trek"
+    ],
+    "included": [
+      "Pemandu trekking berpengalaman",
+      "Camilan trek dan air minum",
+      "Sumbangan sopan santun di Pura Tirta Harum",
+      "Briefing keselamatan"
+    ],
+    "excluded": [
+      "Sepatu trekking dan peralatan (diperlukan - silakan bawa alas kaki yang sesuai)",
+      "Transportasi ke trailhead",
+      "Asuransi pribadi",
+      "Makanan"
+    ],
+    "destinations": ["DST003", "DST004"],
+    "rating": 0,
+    "featured": false
+  },
+  {
+    "id": "PKG005",
+    "slug": "village-life-craft-immersion",
+    "name": "Kehidupan Desa & Immersion Kerajinan",
+    "category": "Kerajinan & Ekonomi Lokal",
+    "shortDescription": "Tenun topi capil Anda sendiri bersama keluarga pengrajin lokal di Dusun Pemenang.",
+    "description": "Alami komunitas pertanian desa Nyalian yang hidup dan tradisi kerajinan turun-temurun dalam paket immersive setengah hari ini. Mulai dengan kunjungan jalan melalui sekitaran pertanian desa, mengamati aktivitas pertanian dan peternakan sehari-hari yang menopang sebagian besar rumah tangga desa. Lanjutkan ke Dusun Pemenang, di mana tenun topi capil (topi lebar tradisional daun kelapa) telah dipraktikkan selama berabad-abad. Temui pengrajin lokal yang mendemonstrasikan teknik tenun tradisional menggunakan janur (daun kelapa muda). Kemudian coba tangan Anda di langkah-langkah tenun capil dasar di bawah bimbingan pengrajin dalam mini-workshop interaktif. Bawa pulang topi capil selesai Anda sebagai souvenir yang bermakna, buatan tangan. Paket ini secara langsung mendukung UMKM lokal (perusahaan kecil) dan menawarkan manfaat ekonomi asli kepada pengrajin desa. Camilan tradisional ringan dengan keluarga tuan rumah disertakan.",
+    "thumbnail": "/images/Topi Capil_1.webp",
+    "gallery": [
+      "/images/Topi Capil_2.webp",
+      "/images/Topi Capil_3.webp",
+      "/images/Desa Nyalian_11.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Setengah hari, kira-kira 3,5 jam (09:00–12:30)",
+    "capacity": "2–15 orang",
+    "highlights": [
+      "Dukungan ekonomi langsung kepada pengrajin UMKM lokal",
+      "Kunjungan jalan melalui sekitaran pertanian desa",
+      "Demonstrasi kerajinan capil oleh pengrajin lokal",
+      "Mini-workshop interaktif dengan teknik tenun tradisional",
+      "Bawa pulang topi capil buatan tangan Anda",
+      "Camilan tradisional dengan keluarga tuan rumah"
+    ],
+    "itinerary": [
+      "09:00 - Sambutan di rumah keluarga atau aula komunitas desa",
+      "09:15 - Kunjungan jalan melalui sekitaran pertanian desa, mengamati pertanian dan peternakan",
+      "10:00 - Perjalanan ke Dusun Pemenang",
+      "10:15 - Temui pengrajin capil lokal, pelajari tentang bahan dan sejarah",
+      "10:30 - Demonstrasi kerajinan capil menunjukkan teknik tenun tradisional",
+      "11:00 - Mini-workshop interaktif: coba langkah-langkah tenun capil dasar di bawah bimbingan pengrajin",
+      "12:00 - Camilan tradisional ringan dengan keluarga tuan rumah",
+      "12:30 - Akhir pengalaman"
+    ],
+    "included": [
+      "Pemandu lokal",
+      "Workshop tenun capil dipandu pengrajin",
+      "Topi capil buatan tangan yang dapat dibawa pulang",
+      "Camilan tradisional dengan keluarga tuan rumah"
+    ],
+    "excluded": [
+      "Transportasi ke/dari Desa Nyalian",
+      "Suvenir tambahan dari pengrajin",
+      "Tip untuk pengrajin (opsional)"
+    ],
+    "destinations": ["DST004", "DST008"],
+    "rating": 0,
+    "featured": true
+  },
+  {
+    "id": "PKG006",
+    "slug": "sacred-ceremony-witness",
+    "name": "Saksi Upacara Suci (Musiman, Atas Permintaan)",
+    "category": "Seni Pertunjukan",
+    "shortDescription": "Akses langka untuk menyaksikan Tari Baris Tentara atau Sang Hyang Jaran Mesiram — ritual suci terikat kalender upacara.",
+    "description": "Ini bukan pertunjukan yang dijadwalkan. Ini adalah perjanjian permanen: jika tanggal perjalanan Anda kebetulan selaras dengan prosesi Napak Pertiwi (ketika Tari Baris Tentara dilakukan di Pamerajan Agung Puri Agung Nyalian) atau Piodalan di Pura Kahyangan Desa Nyalian (ketika Sang Hyang Jaran Mesiram mungkin terjadi), dan izin komunitas/candi memungkinkan, pengunjung terdaftar dapat diberi kesempatan untuk menonton dengan hormat dari jarak yang tepat. Kedua acara adalah suci, trance-based, dan pingit (terbatas) dalam sifatnya. Pemandu Anda memberikan penjelasan real-time tentang makna ritual, membantu Anda memahami apa yang Anda saksikan daripada sekadar menonton. Fotografi dan video mungkin terbatas atau dilarang tergantung kesempatan. Paket ini tidak dapat menjamin bahwa upacara apa pun akan terjadi selama tinggal tertentu — memerlukan pendaftaran sebelumnya (minimal 2-4 minggu disarankan) sehingga desa/puri dapat mengonfirmasi apakah upacara mendatang sesuai untuk observasi pengunjung. Pengalaman akses langka ini langsung memperkuat filosofi pariwisata Nyalian tentang budaya hidup daripada pertunjukan.",
+    "thumbnail": "/images/Desa Nyalian_9.webp",
+    "gallery": [
+      "/images/Desa Nyalian_10.webp",
+      "/images/Desa Nyalian_12.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "Bervariasi (terikat pada kalender upacara candi/istana)",
+    "capacity": "Kelompok kecil sangat disukai (maks 5–8 orang)",
+    "highlights": [
+      "Akses langka ke dua ritual suci yang paling jarang disaksikan di Bali",
+      "Tari Baris Tentara ditampilkan selama prosesi Napak Pertiwi (jika tersedia)",
+      "Ritual trance Sang Hyang Jaran Mesiram selama Piodalan (jika tersedia)",
+      "Penjelasan budaya terpandu real-time",
+      "Observasi yang dihormati dari jarak yang tepat",
+      "Budaya hidup daripada pertunjukan — konteks upacara autentik"
+    ],
+    "itinerary": [
+      "Itinerary tergantung sepenuhnya pada upacara mana yang selaras dengan tanggal pengunjung",
+      "Pendaftaran sebelumnya diperlukan (minimal 2-4 minggu disarankan)",
+      "Desa/puri akan mengonfirmasi ketersediaan upacara dan protokol pengunjung",
+      "Pemandu bertemu pengunjung di titik berkumpul yang ditunjuk",
+      "Observasi yang dihormati dari jarak yang tepat dengan penjelasan budaya",
+      "Kebijakan fotografi/video dikonfirmasi kasus per kasus per upacara"
+    ],
+    "included": [
+      "Pemandu budaya dan penerjemah",
+      "Koordinasi dengan otoritas candi/puri",
+      "Sumbangan sopan santun upacara",
+      "Briefing etika upacara yang tepat"
+    ],
+    "excluded": [
+      "Jaminan terjadinya upacara (ketersediaan tanggal atas permintaan saja)",
+      "Hak fotografi (kasus per kasus, mungkin dilarang)",
+      "Transportasi ke/dari situs upacara",
+      "Sumbangan pribadi (opsional)"
+    ],
+    "destinations": ["DST001", "DST005"],
+    "rating": 0,
+    "featured": false
+  },
+  {
+    "id": "PKG007",
+    "slug": "nyalian-immersive-stay-2d1n",
+    "name": "Tinggal Immersive Nyalian — 2 Hari 1 Malam",
+    "category": "Immersion Penuh",
+    "shortDescription": "Menginaplah dengan keluarga tuan rumah Nyalian dan alami empat pilar desa secara langsung.",
+    "description": "Satu-satunya paket yang mencakup tinggal semalam di rumah keluarga, menghasilkan pendapatan langsung untuk keluarga desa. Pengalaman immersive dua hari satu malam ini mencakup semua empat Pilar Pengalaman Pengunjung dalam satu itinerary: warisan kerajaan di Puri Agung Nyalian dengan kutipan Arja, pemurnian spiritual di Pura Tirta Tadah Uwug, immersion alam sepanjang terasering padi dan lembah, dan workshop kerajinan interaktif dengan pengrajin lokal. Tinggal dengan keluarga rumah keluarga lokal, berbagi makanan buatan rumah dan bercerita informal yang mengungkap kehidupan desa sehari-hari melampaui apa yang dapat ditawarkan tur sehari. Opsi terbaik untuk penjelajah yang mencari immersion mendalam, pengantin baru yang menginginkan detour autentik dari area pantai Bali, dan penggemar perjalanan lambat. Ini bukan hanya tur desa — ini adalah pengalaman kehidupan desa secara langsung.",
+    "thumbnail": "/images/Desa Nyalian_13.webp",
+    "gallery": [
+      "/images/Desa Nyalian_14.webp",
+      "/images/Pura Tirta Tadah Uwuk_7.webp",
+      "/images/Pura Tirta Tadah Uwuk_8.webp",
+      "/images/Pura Tirta Tadah Uwuk_9.webp",
+      "/images/Pura Tirta Tadah Uwuk_10.webp",
+      "/images/Topi Capil_1.webp"
+    ],
+    "price": "Contact Pokdarwis",
+    "duration": "2 Hari, 1 Malam",
+    "capacity": "2–10 orang",
+    "highlights": [
+      "Satu-satunya paket dengan tinggal semalam di rumah keluarga — pendapatan langsung untuk keluarga desa",
+      "Mencakup semua empat Pilar Pengalaman Pengunjung dalam satu itinerary",
+      "Makanan buatan rumah keluarga dan bercerita informal",
+      "Jalan warisan kerajaan dengan kutipan pertunjukan Arja",
+      "Melukat pagi awal di mata air suci",
+      "Jalan terasering padi dan workshop tenun capil",
+      "Alami kehidupan desa, bukan sekadar turnya"
+    ],
+    "itinerary": [
+      "Hari 1 - Sore: Tiba dan check-in di rumah keluarga lokal",
+      "Hari 1 - Sore: Jalan warisan Puri Agung Nyalian dan pertunjukan kutipan Arja",
+      "Hari 1 - Malam: Makan malam keluarga buatan rumah dan bercerita informal dengan keluarga tuan rumah",
+      "Hari 2 - Pagi awal: Melukat di Pura Tirta Tadah Uwug",
+      "Hari 2 - Pertengahan pagi: Jalan terasering padi dan lembah dengan berhenti fotografi",
+      "Hari 2 - Siang: Workshop tenun capil dengan pengrajin lokal di Dusun Pemenang",
+      "Hari 2 - Sore: Makan siang perpisahan dan keberangkatan"
+    ],
+    "included": [
+      "Akomodasi tinggal 1 malam di rumah keluarga (dasar occupancy ganda)",
+      "Semua makanan (2 makan siang, 1 makan malam, 1 sarapan)",
+      "Panduan penuh untuk semua aktivitas",
+      "Fasilitasi melukat dengan bahan persembahan",
+      "Workshop kerajinan capil dan item yang dapat dibawa pulang",
+      "Semua sumbangan masuk dan sopan santun"
+    ],
+    "excluded": [
+      "Transportasi ke/dari Desa Nyalian",
+      "Asuransi perjalanan",
+      "Pengeluaran pribadi",
+      "Tip untuk pemandu dan keluarga tuan rumah (opsional)"
+    ],
+    "destinations": ["DST001", "DST002", "DST004", "DST008"],
+    "rating": 0,
+    "featured": true
+  }
+]

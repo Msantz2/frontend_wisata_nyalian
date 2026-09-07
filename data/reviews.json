@@ -1,0 +1,92 @@
+[
+  {
+    "id": "REV001",
+    "visitorName": "Sarah Mitchell",
+    "visitorCountry": "Australia",
+    "avatar": "/images/avatars/sarah-mitchell.jpg",
+    "rating": 5.0,
+    "comment": "Absolutely magical experience! The waterfall trek was stunning, and our guide Made was incredibly knowledgeable about the local flora and fauna. The bamboo weaving workshop was a highlight - I made a beautiful basket to take home. The village homestay gave us authentic insight into Balinese daily life. Highly recommend the full-day nature package!",
+    "visitDate": "2026-06-28"
+  },
+  {
+    "id": "REV002",
+    "visitorName": "Budi Santoso",
+    "visitorCountry": "Indonesia",
+    "avatar": "/images/avatars/budi-santoso.jpg",
+    "rating": 4.8,
+    "comment": "Pengalaman yang luar biasa! Desa Nyalian menawarkan ketenangan dan keindahan alam yang masih asli. Sawah terasering sangat fotogenik, terutama saat pagi hari. Makanan tradisional di warung lokal sangat enak dan autentik. Sangat cocok untuk liburan keluarga yang ingin menjauh dari hiruk pikuk kota.",
+    "visitDate": "2026-06-15"
+  },
+  {
+    "id": "REV003",
+    "visitorName": "Emma van der Berg",
+    "visitorCountry": "Netherlands",
+    "avatar": "/images/avatars/emma-vandenberg.jpg",
+    "rating": 4.9,
+    "comment": "The spiritual journey package exceeded all expectations. The purification ritual at Tirta Sari was deeply moving and respectful. Our spiritual guide explained everything beautifully without pushing any beliefs. The temple visit was educational and the architecture fascinating. This is authentic Bali, not tourist traps. The cooler mountain climate was also a welcome change from the coastal heat.",
+    "visitDate": "2026-05-22"
+  },
+  {
+    "id": "REV004",
+    "visitorName": "Michael Chen",
+    "visitorCountry": "Singapore",
+    "avatar": "/images/avatars/michael-chen.jpg",
+    "rating": 4.7,
+    "comment": "Great weekend getaway from Singapore! The agricultural heritage tour was fascinating - learned so much about the subak system and traditional rice farming. Got to try planting rice myself which was harder than it looks! The lunch at the farmer's home was simple but delicious. Only minor downside was the trek being a bit challenging for my elderly parents, but the guides were patient and accommodating.",
+    "visitDate": "2026-05-10"
+  },
+  {
+    "id": "REV005",
+    "visitorName": "Yuki Tanaka",
+    "visitorCountry": "Japan",
+    "avatar": "/images/avatars/yuki-tanaka.jpg",
+    "rating": 5.0,
+    "comment": "Perfect escape from crowded tourist areas! The village is peaceful and the people are genuinely warm and welcoming. I stayed three days and wish I could have stayed longer. The cooking class was wonderful - now I can make authentic lawar at home. The homestay family treated me like their own daughter. This is the real Bali experience everyone should have.",
+    "visitDate": "2026-04-18"
+  },
+  {
+    "id": "REV006",
+    "visitorName": "Ani Kusuma Dewi",
+    "visitorCountry": "Indonesia",
+    "avatar": "/images/avatars/ani-dewi.jpg",
+    "rating": 4.6,
+    "comment": "Destinasi yang sempurna untuk edukasi anak-anak tentang budaya dan pertanian tradisional. Anak-anak saya sangat senang bisa belajar membuat kerajinan bambu dan melihat langsung bagaimana padi ditanam. Pemandu wisata sangat ramah dan sabar dengan anak-anak. Udara sejuk dan pemandangan indah membuat kami ingin kembali lagi.",
+    "visitDate": "2026-04-05"
+  },
+  {
+    "id": "REV007",
+    "visitorName": "David Thompson",
+    "visitorCountry": "United States",
+    "avatar": "/images/avatars/david-thompson.jpg",
+    "rating": 3.5,
+    "comment": "Beautiful location and friendly people, but some aspects could be improved. The waterfall is stunning but the trail could use better maintenance - quite slippery in places. Also, English signage is limited which made navigation challenging. That said, the natural beauty is undeniable and the cultural experiences were authentic. Would recommend bringing a good guide and proper hiking shoes.",
+    "visitDate": "2026-03-28"
+  },
+  {
+    "id": "REV008",
+    "visitorName": "Sophie Laurent",
+    "visitorCountry": "France",
+    "avatar": "/images/avatars/sophie-laurent.jpg",
+    "rating": 4.9,
+    "comment": "Magnifique! This village is a hidden treasure. The combination of nature and culture is perfect. I particularly loved learning about the subak irrigation system - such an ingenious and sustainable approach. The rice terraces at sunrise were breathtaking. The community-based tourism model here is exemplary and should be replicated elsewhere. Merci to our wonderful hosts!",
+    "visitDate": "2026-03-12"
+  },
+  {
+    "id": "REV009",
+    "visitorName": "James Wilson",
+    "visitorCountry": "United Kingdom",
+    "avatar": "/images/avatars/james-wilson.jpg",
+    "rating": 4.8,
+    "comment": "Brilliant experience from start to finish. The full-day nature explorer package was excellent value for money. Our guide Ketut was fantastic - entertaining, informative, and made sure everyone in our group of 6 was comfortable. The waterfall swim was refreshing, the jungle trek adventurous, and lunch was delicious. The village is doing tourism right - sustainable and community-focused.",
+    "visitDate": "2026-02-20"
+  },
+  {
+    "id": "REV010",
+    "visitorName": "Rina Wijaya",
+    "visitorCountry": "Indonesia",
+    "avatar": "/images/avatars/rina-wijaya.jpg",
+    "rating": 5.0,
+    "comment": "Desa wisata terbaik yang pernah saya kunjungi di Bali! Suasananya tenang, udaranya sejuk, dan masyarakatnya sangat ramah. Saya mengikuti paket cultural immersion dan sangat puas. Belajar banyak tentang arsitektur tradisional Bali dan filosofi Tri Hita Karana. Kerajinan bambu yang saya buat sendiri sekarang jadi pajangan favorit di rumah. Pasti akan kembali!",
+    "visitDate": "2026-01-25"
+  }
+]

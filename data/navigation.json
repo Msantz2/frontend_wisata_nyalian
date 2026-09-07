@@ -1,0 +1,44 @@
+[
+  {
+    "id": "NAV001",
+    "label": "Home",
+    "href": "/",
+    "order": 1
+  },
+  {
+    "id": "NAV002",
+    "label": "Destinations",
+    "href": "/destinations",
+    "order": 2
+  },
+  {
+    "id": "NAV003",
+    "label": "Packages",
+    "href": "/packages",
+    "order": 3
+  },
+  {
+    "id": "NAV004",
+    "label": "Articles",
+    "href": "/articles",
+    "order": 4
+  },
+  {
+    "id": "NAV005",
+    "label": "About",
+    "href": "/about",
+    "order": 5
+  },
+  {
+    "id": "NAV006",
+    "label": "FAQ",
+    "href": "/faq",
+    "order": 6
+  },
+  {
+    "id": "NAV007",
+    "label": "Plan Your Visit",
+    "href": "/plan-your-visit",
+    "order": 7
+  }
+]

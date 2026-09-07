@@ -1,0 +1,1 @@
+export { adminNavigationItems } from './config';

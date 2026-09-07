@@ -1,0 +1,66 @@
+[
+  {
+    "id": "VID001",
+    "title": "Puri Agung Nyalian - Warisan Budaya Bali",
+    "description": "Jelajahi keindahan arsitektur dan tradisi yang hidup di Puri Agung Nyalian, kediaman kerajaan bersejarah yang masih dihuni dan menjadi pusat upacara aktif.",
+    "thumbnail": "/images/videos/puri-agung-nyalian-thumb.webp",
+    "youtubeId": "dQw4w9WgXcQ",
+    "category": "Warisan Budaya & Seni"
+  },
+  {
+    "id": "VID002",
+    "title": "Teater Arja Gede Garong - Seni Tradisional Bali",
+    "description": "Saksikan pertunjukan spektakuler Arja Gede Garong, bentuk teater Bali yang lahir di Puri Agung Nyalian pada tahun 1950-an dengan musiknya yang meriah dan cerita-cerita yang menghibur.",
+    "thumbnail": "/images/videos/arja-gede-garong-thumb.webp",
+    "youtubeId": "jNQXAC9IVRw",
+    "category": "Warisan Budaya & Seni"
+  },
+  {
+    "id": "VID003",
+    "title": "Tari Baris Tentara - Tarian Sakral Istana",
+    "description": "Nikmati keindahan Tari Baris Tentara, tari suci yang dilakukan eksklusif oleh penari istana pilihan di Puri Agung Nyalian selama prosesi Napak Pertiwi.",
+    "thumbnail": "/images/videos/tari-baris-tentara-thumb.webp",
+    "youtubeId": "9bZkp7q19f0",
+    "category": "Warisan Budaya & Seni"
+  },
+  {
+    "id": "VID004",
+    "title": "Desa Nyalian - Destinasi Wisata Terpadu",
+    "description": "Temukan keajaiban Desa Nyalian dengan paket wisata komprehensif yang menggabungkan budaya, alam, dan pengalaman autentik Bali yang tak terlupakan.",
+    "thumbnail": "/images/videos/desa-nyalian-overview-thumb.webp",
+    "youtubeId": "ZbzP0Z0pP00",
+    "category": "Wisata Desa"
+  },
+  {
+    "id": "VID005",
+    "title": "Upacara Tradisional di Pura Desa",
+    "description": "Saksikan kesakralan upacara tradisional Bali yang dilaksanakan secara rutin di Pura Desa Nyalian, menunjukkan spiritualitas dan kebersamaan masyarakat lokal.",
+    "thumbnail": "/images/videos/upacara-pura-thumb.webp",
+    "youtubeId": "Ks-_Mh1QhMc",
+    "category": "Upacara & Festival"
+  },
+  {
+    "id": "VID006",
+    "title": "Petualangan Kuliner di Nyalian",
+    "description": "Rasakan cita rasa autentik masakan Bali tradisional dan modern di warung-warung lokal Desa Nyalian yang menawarkan pengalaman kuliner yang tak terlupakan.",
+    "thumbnail": "/images/videos/kuliner-nyalian-thumb.webp",
+    "youtubeId": "PmZjaQy84R0",
+    "category": "Kuliner"
+  },
+  {
+    "id": "VID007",
+    "title": "Kerajinan Tradisional Bali - Pengrajin Lokal",
+    "description": "Kunjungi pengrajin lokal di Desa Nyalian dan saksikan proses pembuatan kerajinan tradisional Bali seperti ukiran kayu, lukisan, dan tekstil dengan tangan yang terampil.",
+    "thumbnail": "/images/videos/kerajinan-bali-thumb.webp",
+    "youtubeId": "OCrmCW8tqWA",
+    "category": "Kerajinan & Seni"
+  },
+  {
+    "id": "VID008",
+    "title": "Petualangan Alam - Trek Sawah dan Hutan Tropis",
+    "description": "Jelajahi keindahan alam Desa Nyalian melalui trek sawah yang hijau dan hutan tropis yang mempesona, sempurna untuk petualangan dan fotografi alam.",
+    "thumbnail": "/images/videos/trekking-nyalian-thumb.webp",
+    "youtubeId": "l3tr_w1L_oE",
+    "category": "Petualangan Alam"
+  }
+]

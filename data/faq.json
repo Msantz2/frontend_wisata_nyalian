@@ -1,0 +1,218 @@
+[
+  {
+    "id": "FAQ001",
+    "category": "General",
+    "question": "Where is Nyalian Tourism Village located?",
+    "answer": "Nyalian Village is located in Banjarangkan District, Klungkung Regency, Bali. The nearest well-known landmark is the Klungkung Palace / Kertha Gosa complex in Semarapura, Klungkung's regency capital.",
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "FAQ002",
+    "category": "General",
+    "question": "What makes Nyalian different from other tourism villages in Bali?",
+    "answer": "Nyalian combines two identities that are rare to find together: it is a living royal heritage site (Puri Agung Nyalian, birthplace of Arja Gede Garong and home of the sacred Tari Baris Tentara) and a working agrarian village where rice farming and animal husbandry remain the primary livelihood. Visitors experience traditions that are still actively practiced by the community that owns them, not staged re-creations.",
+    "featured": false,
+    "order": 2
+  },
+  {
+    "id": "FAQ003",
+    "category": "General",
+    "question": "Is Nyalian a large or heavily commercialized tourist destination?",
+    "answer": "No. Nyalian's tourism model is community-based and heritage-led, developed with support from the Klungkung Tourism Office (Dinas Pariwisata Klungkung) and the Klungkung Tourism Village Communication Forum (Forkomdewi Klungkung). It is intentionally not positioned as a mass-tourism site.",
+    "featured": false,
+    "order": 3
+  },
+  {
+    "id": "FAQ004",
+    "category": "General",
+    "question": "Is Nyalian suitable for families?",
+    "answer": "Most experiences are suitable for families, including the Heritage Morning, Melukat Experience, and Village Life & Craft Immersion packages. The Tukad Melangit Trekking & Tirta Harum package involves uneven forest and ravine terrain and is better suited to active travelers comfortable with walking. For specific age or fitness restrictions, please contact Pokdarwis Nyalian.",
+    "featured": false,
+    "order": 4
+  },
+  {
+    "id": "FAQ005",
+    "category": "General",
+    "question": "Do local guides speak English?",
+    "answer": "Contact Pokdarwis Nyalian to confirm English language capability of guides for your visit.",
+    "featured": false,
+    "order": 5
+  },
+  {
+    "id": "FAQ006",
+    "category": "Location & Getting There",
+    "question": "How do I get to Nyalian from Denpasar or the airport?",
+    "answer": "For Pura Tirta Tadah Uwug: from central Semarapura, the route runs through Banjarangkan District toward Nyalian, using Pura Puseh Umanyar as a landmark. A digital map search for 'Tirta Tadah Uwuk Desa Nyalian' is also effective. For general village-level directions and other routes, please contact Pokdarwis Nyalian.",
+    "featured": false,
+    "order": 6
+  },
+  {
+    "id": "FAQ007",
+    "category": "Location & Getting There",
+    "question": "Is there public transportation to Nyalian?",
+    "answer": "Contact Pokdarwis Nyalian to confirm public transportation options. Private vehicle or arranged transport is recommended.",
+    "featured": false,
+    "order": 7
+  },
+  {
+    "id": "FAQ008",
+    "category": "Location & Getting There",
+    "question": "Can I visit by motorbike, or do I need a car?",
+    "answer": "A parking area exists at Pura Tirta Tadah Uwug and regular vehicles (two- or four-wheeled) can reach destinations. For specific route recommendations, contact Pokdarwis Nyalian.",
+    "featured": false,
+    "order": 8
+  },
+  {
+    "id": "FAQ009",
+    "category": "Destinations",
+    "question": "What destinations can I visit in Nyalian?",
+    "answer": "Nyalian offers five documented destinations: (1) Puri Agung Nyalian - Royal residence and birthplace of Arja; (2) Pura Tirta Tadah Uwug - Melukat (purification bathing) at a cliffside sacred spring; (3) Pura Kahyangan Desa Nyalian - Site of the Sang Hyang Jaran Mesiram trance ritual; (4) Pura Tirta Harum - Hidden clan-origin forest temple, reachable only on foot; (5) Tukad Melangit Valley & Rice Field Landscape - Riverine valley and working rice-terrace scenery.",
+    "featured": false,
+    "order": 9
+  },
+  {
+    "id": "FAQ010",
+    "category": "Destinations",
+    "question": "Can I just show up at Puri Agung Nyalian, or do I need to arrange a visit in advance?",
+    "answer": "Puri Agung Nyalian is an inhabited royal residence and active ceremonial site, not a museum with standard opening hours. Visits should be arranged in advance through the village tourism group (Pokdarwis) or directly with the puri, out of respect for its dual status as a home and a living cultural institution.",
+    "featured": false,
+    "order": 10
+  },
+  {
+    "id": "FAQ011",
+    "category": "Destinations",
+    "question": "What is melukat, and can anyone take part?",
+    "answer": "Melukat is a spiritual purification bathing ritual. At Pura Tirta Tadah Uwug, 9 of the site's 10 sacred spouts (pancoran) are available for general purification use (the 10th is reserved for pitra yadnya funerary rites). General visitors are welcomed for guided melukat as part of the Sacred Waters Melukat Experience package, led by a local pemangku or trained guide.",
+    "featured": false,
+    "order": 11
+  },
+  {
+    "id": "FAQ012",
+    "category": "Destinations",
+    "question": "What are the opening hours and entrance fees for these destinations?",
+    "answer": "Contact Pokdarwis Nyalian for current opening hours, entrance fees, and guide requirements for all destinations.",
+    "featured": true,
+    "order": 12
+  },
+  {
+    "id": "FAQ013",
+    "category": "Tour Packages & Booking",
+    "question": "What tour packages are available?",
+    "answer": "Nyalian offers seven tour packages: (1) Nyalian Heritage Morning - Royal heritage + Arja performance; (2) Sacred Waters Melukat Experience - Spiritual purification; (3) Nyalian Full-Day Discovery - Culture + spirituality + nature; (4) Tukad Melangit Trekking & Tirta Harum - Nature trekking + hidden temple; (5) Village Life & Craft Immersion - Agrarian life + local craft; (6) Sacred Ceremony Witness (Seasonal, By Request) - Rare ceremonial access; (7) Nyalian Immersive Stay (2D1N) - Full immersion + homestay. Contact Pokdarwis Nyalian for current pricing and availability.",
+    "featured": true,
+    "order": 13
+  },
+  {
+    "id": "FAQ014",
+    "category": "Tour Packages & Booking",
+    "question": "How do I book a tour package?",
+    "answer": "Contact Pokdarwis Nyalian via WhatsApp, phone, or email to book tour packages and confirm availability.",
+    "featured": true,
+    "order": 14
+  },
+  {
+    "id": "FAQ015",
+    "category": "Tour Packages & Booking",
+    "question": "Do prices go down for groups?",
+    "answer": "Prices are typically lower per person for groups of 4 or more. Contact Pokdarwis Nyalian for exact group and private-guide pricing structures.",
+    "featured": false,
+    "order": 15
+  },
+  {
+    "id": "FAQ016",
+    "category": "Tour Packages & Booking",
+    "question": "Is transportation to Nyalian included in the packages?",
+    "answer": "No. All packages exclude transportation to/from Nyalian Village. Some packages may offer hotel pickup as an add-on - contact Pokdarwis Nyalian to confirm.",
+    "featured": false,
+    "order": 16
+  },
+  {
+    "id": "FAQ017",
+    "category": "Tour Packages & Booking",
+    "question": "Can I book the Sacred Ceremony Witness package for a specific date?",
+    "answer": "No. This package is not a scheduled show. It is a by-request arrangement tied entirely to the temple/palace's own ceremonial calendar (the Napak Pertiwi procession or a Piodalan at Pura Kahyangan Desa Nyalian). Advance registration is recommended 2-4 weeks ahead so the village/puri can confirm whether an upcoming ceremony is appropriate for visitor observation. The package cannot guarantee that any ceremony will occur during a given stay.",
+    "featured": false,
+    "order": 17
+  },
+  {
+    "id": "FAQ018",
+    "category": "Tour Packages & Booking",
+    "question": "Can I stay overnight in Nyalian?",
+    "answer": "Yes, through the Nyalian Immersive Stay (2D1N) package, which includes one night of homestay accommodation with a local family. Contact Pokdarwis Nyalian to confirm homestay availability and capacity.",
+    "featured": false,
+    "order": 18
+  },
+  {
+    "id": "FAQ019",
+    "category": "Sacred Sites & Etiquette",
+    "question": "Can I watch Tari Baris Tentara or Sang Hyang Jaran Mesiram whenever I visit?",
+    "answer": "No. Both are sacred, restricted (pingit) rituals tied to their own ceremonial calendars - Tari Baris Tentara during the Napak Pertiwi procession at Puri Agung Nyalian, and Sang Hyang Jaran Mesiram during Piodalan at a Kahyangan temple within the village. Neither is ever staged on demand for tourists. The only way to potentially witness either is through the Sacred Ceremony Witness package, and only if travel dates happen to align with an actual ceremony and community/temple permission allows.",
+    "featured": true,
+    "order": 19
+  },
+  {
+    "id": "FAQ020",
+    "category": "Sacred Sites & Etiquette",
+    "question": "Can I take photos or video of these sacred rituals?",
+    "answer": "Photography and video permission must be confirmed case-by-case for each specific occasion - never assume it is allowed. Treat photography as prohibited by default unless a guide or community representative specifically confirms otherwise for that occasion.",
+    "featured": false,
+    "order": 20
+  },
+  {
+    "id": "FAQ021",
+    "category": "Sacred Sites & Etiquette",
+    "question": "What should I wear for melukat at Pura Tirta Tadah Uwug?",
+    "answer": "General Balinese temple etiquette (modest dress, sarong/kamen) is required. The Sacred Waters Melukat Experience package includes sarong/kamen rental if needed. Contact Pokdarwis Nyalian for specific dress-code or conduct guidelines.",
+    "featured": false,
+    "order": 21
+  },
+  {
+    "id": "FAQ022",
+    "category": "Facilities & Practical Info",
+    "question": "Are there restrooms and parking at the destinations?",
+    "answer": "Pura Tirta Tadah Uwug has a parking area, public toilets, and changing rooms. For facilities at other destinations, contact Pokdarwis Nyalian.",
+    "featured": false,
+    "order": 22
+  },
+  {
+    "id": "FAQ023",
+    "category": "Facilities & Practical Info",
+    "question": "Is there anywhere to eat nearby?",
+    "answer": "Yes - Tadah Uwuk Coffee and Eatery, located on-site at Pura Tirta Tadah Uwug, serves coffee, juices, and traditional Balinese food. Several tour packages also include meals with a local homestay family.",
+    "featured": false,
+    "order": 23
+  },
+  {
+    "id": "FAQ024",
+    "category": "Facilities & Practical Info",
+    "question": "What should I bring for the Tukad Melangit trekking route?",
+    "answer": "The Tukad Melangit Trekking & Tirta Harum package includes trail snack and drinking water. You should bring suitable trekking shoes/gear, as the route involves uneven forest and ravine terrain.",
+    "featured": false,
+    "order": 24
+  },
+  {
+    "id": "FAQ025",
+    "category": "Facilities & Practical Info",
+    "question": "Is there mobile signal or Wi-Fi at these sites?",
+    "answer": "Contact Pokdarwis Nyalian for information about mobile signal and Wi-Fi availability at specific destinations.",
+    "featured": false,
+    "order": 25
+  },
+  {
+    "id": "FAQ026",
+    "category": "Local Crafts (UMKM)",
+    "question": "Can I buy handmade souvenirs in Nyalian?",
+    "answer": "Yes. Capil - a traditional wide-brimmed hat woven from young coconut leaf (janur) - is a hereditary craft concentrated in Dusun Pemenang. It is Nyalian's most documented local craft and is featured directly in the tourism program.",
+    "featured": false,
+    "order": 26
+  },
+  {
+    "id": "FAQ027",
+    "category": "Local Crafts (UMKM)",
+    "question": "Can I meet the artisans and see the hats being made?",
+    "answer": "Yes, through the Village Life & Craft Immersion package and Day 2 of the Nyalian Immersive Stay. Both include an artisan-led capil-weaving demonstration, a hands-on mini-workshop, and a take-home capil hat.",
+    "featured": false,
+    "order": 27
+  }
+]

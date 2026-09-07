@@ -1,0 +1,275 @@
+[
+  {
+    "id": "DST001",
+    "slug": "puri-agung-nyalian",
+    "name": "Puri Agung Nyalian",
+    "category": "Warisan Budaya & Seni",
+    "shortDescription": "Masuki kediaman kerajaan hidup — tempat lahirnya teater Arja Bali dan tradisi istana berabad-abad.",
+    "description": "Puri Agung Nyalian adalah kediaman kerajaan bersejarah rumah ningrat Nyalian, yang dikenang secara lokal sebagai pusat apa yang disebut Kerajaan Klungkung Barat. Ini tetap menjadi kediaman keluarga kerajaan yang dihuni dan situs upacara aktif — bukan museum — yang merupakan pusat bagaimana seharusnya disajikan kepada pengunjung. Keturunan puri dan struktur bersejarah bertahan hingga hari ini, membawa arsitektur dan hiasan yang dijelaskan kaya akan makna simbolis, sosial, dan spiritual. Pada 2019, Puri Agung Nyalian secara formal diperkenalkan sebagai destinasi pariwisata desa pada acara Prani Royal Diner yang diadakan di Pemedal Mrajan Agung (pintu gerbang puri), dihadiri oleh Bupati Klungkung. Puri Agung Nyalian adalah tempat lahirnya Arja Gede Garong, bentuk teater Arja Bali, yang pertama kali dipentaskan sekitar tahun 1950-an. Ini juga merupakan rumah upacara Tari Baris Tentara, tari suci yang dilakukan secara eksklusif oleh penari istana pilihan selama prosesi Napak Pertiwi di Pamerajan Agung (kuil keluarga utama puri).",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Nyalian, Kecamatan Banjarangkan, Kabupaten Klungkung, Bali 80752",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+    "images": [
+      "/images/Desa Nyalian_1.webp",
+      "/images/Desa Nyalian_2.webp",
+      "/images/Desa Nyalian_3.webp",
+      "/images/Desa Nyalian_4.webp"
+    ],
+    "videos": [],
+    "facilities": ["Tur Berpemandu", "Pemandu Budaya", "Parkir"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": true
+  },
+  {
+    "id": "DST002",
+    "slug": "pura-tirta-tadah-uwug",
+    "name": "Pura Tirta Tadah Uwuk",
+    "category": "Spiritual Tourism",
+    "shortDescription": "Bersucilah di mata air tebing yang suci, tersembunyi di hutan bambu di sepanjang Tukad Melangit.",
+    "description": "Pura Tirta Tadah Uwuk adalah mata air suci dan situs melukat (pemandian penyucian spiritual) yang terletak di tebing timur lembah sungai Tukad Melangit, dikelilingi oleh hutan bambu. Ini adalah patirthan (tempat suci air) yang unik dan berbeda dari patirthan lainnya di Bali. Menurut tradisi, Tadah Uwuk berasal dari kata \"Tadah\" (mati, kematian, peleburan) dan \"Uwuk\" (cerukan, cairan kotor). Jadi, Tadah Uwuk adalah tempat penyucian atau penglukatan segala sesuatu yang bersifat kotor yang ada dalam tubuh dan jiwa manusia. Situs ini memiliki 10 pancuran (spout) total — 5 di kolam atas dan 5 di kolam bawah. Dari ini, 9 digunakan untuk melukat, sementara 1 dicadangkan khusus untuk pitra yadnya (upacara penguburan). Pancuran kelima penglukatan tersebut mewakili lima lapisan badan manusia (Panca Maya Kosa) dan diyakini mampu melebur segala mala kasmala, papa, dan kekotoran yang menempel pada lima lapisan tersebut. Pengunjung turun melalui tangga batu dari area parkir untuk mencapai kompleks pemandian, tiba dengan suara sungai Tukad Melangit dan kicauan burung di bawah kanopi hutan. Setelah melukat, pengunjung dapat beristirahat di Tadah Uwuk Coffee and Eatery yang tersedia di lokasi.",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Banjar Umanyar, Desa Adat Umanyar, Nyalian Village, Klungkung",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+     "images": [
+       "/images/Pura Tirta Tadah Uwuk_1.webp",
+       "/images/Pura Tirta Tadah Uwuk_2.webp",
+       "/images/Pura Tirta Tadah Uwuk_3.webp",
+       "/images/Pura Tirta Tadah Uwuk_4.webp",
+       "/images/Pura Tirta Tadah Uwuk_5.webp",
+       "/images/Pura Tirta Tadah Uwuk_6.webp",
+       "/images/Pura Tirta Tadah Uwuk_7.webp",
+       "/images/Pura Tirta Tadah Uwuk_8.webp",
+       "/images/Pura Tirta Tadah Uwuk_9.webp",
+       "/images/Pura Tirta Tadah Uwuk_10.webp"
+     ],
+    "videos": [],
+    "facilities": ["Area Parkir", "Akses Tangga Batu", "Toilet Umum", "Kamar Ganti", "Tadah Uwuk Coffee and Eatery"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Contact Pokdarwis", "child": "Contact Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": true
+  },
+    {
+      "id": "DST003",
+      "slug": "pura-tirta-harum",
+      "name": "Pura Tirta Harum",
+      "category": "Spiritual Tourism",
+      "shortDescription": "Jelajahi hutan tebing dan kuil leluhur — penemuan paling menarik di Nyalian.",
+      "description": "Pura Tirta Harum adalah pura kawitan Satria Taman Bali Maha Gotra Tirta Harum yang terletak di Tegalwangi, Desa Nyalian, Banjarangkan, Klungkung, Bali. Diperkirakan berdiri sejak abad ke-14 (sekitar tahun 1350 M), pura ini memiliki nilai penting dalam sejarah spiritual, pemujaan leluhur, dan warisan budaya Bali. Disusun berdasarkan konsep Tri Mandala, Pura Tirta Harum juga dikenal sebagai tempat suci yang memiliki sumber tirta dan pelinggih-pelinggih sakral yang tetap dimuliakan hingga kini. Pura ini diyakini sebagai tempat suci yang berkaitan dengan kelahiran Sang Angga Tirta, tokoh leluhur yang dipandang sebagai cikal bakal pratisentana Maha Gotra Tirta Harum di Bali. Secara geografis, Pura Tirta Harum terletak di kawasan tebing sisi timur Tukad Melangit, dalam suasana alam yang teduh, hening, dan sakral. Dalam tradisi yang diwariskan turun-temurun, Pura Tirta Harum dikaitkan dengan kisah Ni Dewi Njung Asti dan Bhatara Wisnu Bhuwana. Sebagai objek wisata spiritual dan religius, Pura Tirta Harum menghadirkan pengalaman yang lebih dalam daripada sekadar kunjungan wisata biasa. Kawasan ini merupakan ruang untuk tirtha yatra (perjalanan spiritual), kontemplasi, pemuliaan leluhur, serta pembelajaran sejarah dan kebudayaan Bali. Keheningan alam, kesakralan pura, dan keberadaan sumber tirta suci menjadikan tempat ini sebagai salah satu ruang spiritual yang merepresentasikan hubungan harmonis antara manusia, alam, leluhur, dan Ida Sang Hyang Widhi Wasa.",
+      "location": {
+        "village": "Nyalian",
+        "district": "Banjarangkan",
+        "regency": "Klungkung",
+        "province": "Bali",
+        "address": "Tukad Melangit Ravine, Nyalian Village, Klungkung",
+        "latitude": -8.499444,
+        "longitude": 115.367222
+      },
+      "images": [
+        "/images/Pura Tirtha Harum_1.webp",
+        "/images/Pura Tirtha Harum_2.webp",
+        "/images/Pura Tirtha Harum_3.webp",
+        "/images/Pura Tirtha Harum_4.webp",
+        "/images/Pura Tirtha Harum_5.webp",
+        "/images/Pura Tirtha Harum_6.webp",
+        "/images/Pura Tirtha Harum_7.webp",
+        "/images/Pura Tirtha Harum_8.webp"
+      ],
+      "videos": [],
+      "facilities": ["Pemandu Trekking", "Jalur Hutan"],
+      "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+      "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+      "rating": 0,
+      "totalReviews": 0,
+      "featured": true
+    },
+   {
+     "id": "DST004",
+     "slug": "tukad-melangit-valley",
+     "name": "Jalur Tracking Persawahan",
+     "category": "Nature & Agriculture",
+     "shortDescription": "Jelajahi persawahan yang masih aktif digarap dan pemandangan lembah sungai yang indah.",
+     "description": "Desa Nyalian menyimpan pesona alam yang masih terjaga, menghadirkan suasana pedesaan yang tenang dengan hamparan sawah hijau, pepohonan rindang, serta kehidupan masyarakat yang masih erat dengan tradisi bertani. Keindahan alam yang berpadu dengan aktivitas masyarakat sehari-hari menjadikan desa ini sebagai destinasi yang tepat bagi wisatawan yang ingin melepas penat sekaligus merasakan pengalaman wisata yang autentik. Jalur Tracking Persawahan mengajak pengunjung berjalan santai melewati jalan setapak yang membelah area persawahan dengan panorama alam yang memanjakan mata. Di sepanjang perjalanan, selain menyuguhkan pemandangan persawahan yang luas, jalur tracking ini juga melintasi kawasan hutan yang teduh, sehingga memberikan variasi suasana bagi para pengunjung selama perjalanan. Perpaduan antara area persawahan yang terbuka dan kawasan hutan yang rindang menciptakan pengalaman wisata alam yang menyeluruh dan menyegarkan. Dengan panjang jalur sekitar 1-2 kilometer, tracking ini memiliki tingkat kesulitan yang mudah sehingga dapat dinikmati oleh berbagai kalangan, mulai dari anak-anak, keluarga, hingga wisatawan yang ingin menikmati wisata alam dengan santai. Perjalanan dapat ditempuh dalam waktu sekitar 30-60 menit, memberikan kesempatan bagi pengunjung untuk berhenti sejenak, mengabadikan momen, maupun menikmati ketenangan alam. Keunikan jalur ini tidak hanya terletak pada keindahan lanskapnya, tetapi juga pada kesempatan untuk menyaksikan secara langsung aktivitas para petani yang sedang mengolah sawah, menanam, maupun merawat tanaman. Interaksi tersebut memberikan gambaran nyata mengenai kehidupan masyarakat agraris yang menjadi bagian penting dari identitas Desa Nyalian.",
+     "location": {
+       "village": "Nyalian",
+       "district": "Banjarangkan",
+       "regency": "Klungkung",
+       "province": "Bali",
+       "address": "Tukad Melangit Valley, Nyalian Village, Klungkung",
+       "latitude": -8.499444,
+       "longitude": 115.367222
+     },
+     "images": [
+       "/images/Desa Nyalian_5.webp",
+       "/images/Desa Nyalian_6.webp",
+       "/images/Desa Nyalian_7.webp",
+       "/images/Desa Nyalian_8.webp"
+     ],
+     "videos": [],
+      "facilities": ["Jalur Jalan Kaki", "Spot Foto", "Pemandu Lokal Tersedia"],
+      "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+      "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+     "rating": 0,
+     "totalReviews": 0,
+     "featured": true
+   },
+  {
+    "id": "DST005",
+    "slug": "pura-kahyangan-nyalian",
+    "name": "Pura Kahyangan Desa Nyalian",
+    "category": "Wisata Spiritual",
+    "shortDescription": "Rumah Sang Hyang Jaran Mesiram, ritual trans suci yang digelar selama upacara kuil — dihormati, bukan dipertunjukkan.",
+    "description": "Rumah upacara salah satu tradisi hidup paling khas Nyalian: ritual Sang Hyang Jaran Mesiram, pertunjukan trans suci yang digelar selama Piodalan (upacara peringatan kuil) di kuil Kahyangan desa. Sang Hyang Jaran Mesiram didokumentasikan sebagai tradisi budaya yang mendefinisikan unik untuk Nyalian di antara desa-desa Bali, terikat pada kalender upacara kuil desa daripada tanggal tahunan tetap. Selama ritual, seorang medium pilihan (Pemundut) memasuki keadaan trans, dipahami secara lokal sebagai kepemilikan oleh Ratu Sanghyang Jaran, dilambangkan oleh objek berbentuk kepala kuda yang suci. Diiringi oleh nyanyian upacara khusus, Pemundut yang dikuasai menari dalam tempat tidur abu kelapa yang terbakar sambil memegang objek simbolis suci. Ini adalah ritual kelas Sanghyang — kategori pertunjukan suci Bali yang berakar pada trans dan perlindungan kuil — dan diperlakukan oleh komunitas sebagai upacara keagamaan, bukan pertunjukan budaya. Karena Sang Hyang Jaran Mesiram hanya terjadi selama Piodalan pada jadwal upacara kuil sendiri (bukan tanggal tetap yang dapat dipesan secara publik), pengunjung dapat menyaksikannya dengan hormat jika waktu memungkinkan, tidak pernah sebagai atraksi yang dijadwalkan.",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Nyalian Village, Klungkung",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+    "images": [
+      "/images/Desa Nyalian_9.webp",
+      "/images/Desa Nyalian_10.webp"
+    ],
+    "videos": [],
+    "facilities": ["Area Pandangan Upacara", "Pemandu Budaya", "Penyewaan Sarung"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": false
+  },
+   {
+     "id": "DST006",
+     "slug": "pura-pucak-sari",
+     "name": "Pura Pucak Sari",
+     "category": "Spiritual Tourism",
+     "shortDescription": "Pura bersejarah yang menyimpan misteri belum terpecahkan dan nilai religius yang mendalam.",
+     "description": "Pura Pucak Sari merupakan salah satu tempat suci bersejarah Desa Nyalian yang saat ini masih menyisakan misteri yang belum terpecahkan terkait asal-usulnya. Pura Pucak Sari menjadi saksi perkembangan Desa Nyalian dari masa ke masa dan perkembangan masa kerajaan Nyalian. Masyarakat mempercayai Bhatara Siwa sebagai Bhatara yang berstana di Pura Pucak Sari, hal ini dibuktikan dari keberadaan Lingga Yoni yang terletak di atas salah satu pelinggih. Hari raya piodalan Pura Pucak Sari bertepatan dengan Tumpek Uye atau Tumpek Kadang, atau jatuh setiap Saniscara Kliwon Uye. Dikatakan bahwa Ida yang berstana di Pura Pucak Sari merupakan Maha Pemurah, hal ini tidak terlepas dari permohonan pemedek atau masyarakat yang bersembahyang untuk Nunas Tamba (memohon pengobatan), memohon kelancaran dalam mencapai tujuan, dan tujuan mulia lainnya yang diberikan jalan atas permintaan. Dari segi bangunan, Pura Pucak Sari masih mempertahankan segi bagunan kuno yang dipelihara dari masa kerajaan yang terbukti masih menggunakan batu bata merah di setiap pelinggih. Pada bagian utama mandala terdapat suatu pelinggih yang disebut \"Gedong\" dan menjadi tempat penyimpanan berbagai arca peninggalan leluhur. Dari segi keindahan alamnya, kawasan pura dikelilingi oleh pepohonan rindang yang menciptakan suasana sejuk, asri, dan tenang sehingga mendukung kesan spiritual bagi para pengunjung maupun umat yang bersembahyang.",
+     "location": {
+       "village": "Nyalian",
+       "district": "Banjarangkan",
+       "regency": "Klungkung",
+       "province": "Bali",
+       "address": "Nyalian Village, Klungkung",
+       "latitude": -8.499444,
+       "longitude": 115.367222
+     },
+     "images": [
+       "/images/Pura Puncak Sari_1.webp",
+       "/images/Pura Puncak Sari_2.webp"
+     ],
+     "videos": [],
+      "facilities": ["Tanah Kuil", "Penyewaan Sarung", "Pemandu Lokal Tersedia"],
+      "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+      "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+     "rating": 0,
+     "totalReviews": 0,
+     "featured": false
+   },
+  {
+    "id": "DST007",
+    "slug": "sanggar-seni-tirtapudja",
+    "name": "Sanggar Seni Tirtapudja",
+    "category": "Seni Pertunjukan",
+    "shortDescription": "Rasakan tradisi seni pertunjukan hidup Nyalian di studio seni budaya ini.",
+    "description": "Sanggar Seni Tirtapudja adalah studio seni budaya di Desa Nyalian yang melestarikan dan mengajarkan seni pertunjukan Bali tradisional. Sanggar (studio seni) berfungsi sebagai tempat pelatihan untuk seniman lokal dan tempat potensial bagi pengunjung untuk menyaksikan atau belajar tentang tradisi budaya Nyalian, termasuk tari dan musik. Sebagai ruang seni berbasis komunitas, sanggar memainkan peran penting dalam mewariskan pengetahuan budaya kepada generasi muda sambil juga membuka jendela untuk pertukaran budaya yang hormat dengan pengunjung. Aktivitas dan pertunjukan di sanggar tergantung pada jadwal pelatihan dan ketersediaan instruktur dan pemain.",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Nyalian Village, Klungkung",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+    "images": [
+      "/images/Sanggar Seni Tirtapudja_1.webp",
+      "/images/Sanggar Seni Tirtapudja_2.webp",
+      "/images/Sanggar Seni Tirtapudja_3.webp"
+    ],
+    "videos": [],
+    "facilities": ["Ruang Pertunjukan", "Pemandu Budaya", "Studio Pelatihan"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": false
+  },
+  {
+    "id": "DST008",
+    "slug": "capil-craft-dusun-pemenang",
+    "name": "Capil Craft — Dusun Pemenang",
+    "category": "Kerajinan & Ekonomi Lokal",
+    "shortDescription": "Bertemu pengrajin di balik tradisional topi capil Nyalian di Dusun Pemenang.",
+    "description": "Capil adalah topi bertepi lebar tradisional yang ditenun dari daun kelapa muda (janur), yang secara historis dikenakan sebagai perlindungan kepala sehari-hari untuk pekerjaan pertanian dan outdoor di seluruh Bali. Di Nyalian, kerajinan capil terkonsentrasi di Dusun Pemenang, di mana telah dipraktikkan sebagai kerajinan turun-temurun yang diwariskan melalui generasi keluarga lokal. Kerajinan menggunakan daun kelapa muda (janur), yang disebut secara lokal sebagai demela ketika masih muda dan belum terbuka, dengan satu ikat (bundel 50 batang janur) ditenun menjadi satu capil yang sudah jadi. Pengunjung dapat mengamati pengrajin saat bekerja, belajar tentang teknik tenun tradisional, dan memahami baik signifikansi budaya maupun tantangan ekonomi nyata yang dihadapi mata pencaharian turun-temurun ini. Kerajinan telah menerima pengakuan pemerintah, termasuk program pelatihan pada 2019 yang berfokus pada pemasaran, manajemen keuangan, dan kesiapan pariwisata, dan kunjungan menteri pada 2023. Pengalaman workshop memungkinkan pengunjung mencoba tangan mereka pada teknik tenun dasar di bawah bimbingan ahli.",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Banjar Dusun Pemenang, Desa Adat Pemenang, Nyalian Village, Klungkung",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+    "images": [
+      "/images/Topi Capil_1.webp",
+      "/images/Topi Capil_2.webp",
+      "/images/Topi Capil_3.webp"
+    ],
+    "videos": [],
+    "facilities": ["Ruang Workshop", "Bahan Disediakan", "Instruktur Ahli", "Toko Produk"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": true
+  },
+  {
+    "id": "DST009",
+    "slug": "jamu-sirkuma-nyalian",
+    "name": "Jamu Sirkuma — Produk Herbal Tradisional",
+    "category": "Kerajinan & Ekonomi Lokal",
+    "shortDescription": "Temukan produk kesehatan herbal Bali tradisional yang dibuat oleh pengrajin lokal di Nyalian.",
+    "description": "Jamu Sirkuma mewakili tradisi Nyalian dalam obat herbal dan produk kesehatan, melanjutkan praktik Bali menggunakan bahan-bahan alami untuk kesehatan dan kesejahteraan. Perusahaan lokal ini menghasilkan jamu tradisional (minuman herbal dan obat-obatan) menggunakan bahan-bahan bersumber lokal dan resep turun-temurun. Pengunjung yang tertarik dengan praktik kesehatan Bali tradisional dapat belajar tentang bahan-bahan, metode persiapan, dan signifikansi budaya jamu dalam kehidupan sehari-hari Bali. Perusahaan mencerminkan koneksi desa dengan lanskap pertaniannya dan relevansi berkelanjutan dari pengetahuan tradisional dalam kehidupan desa kontemporer. Ketersediaan produk dan workshop harus dikonfirmasi dengan Pokdarwis Nyalian.",
+    "location": {
+      "village": "Nyalian",
+      "district": "Banjarangkan",
+      "regency": "Klungkung",
+      "province": "Bali",
+      "address": "Nyalian Village, Klungkung",
+      "latitude": -8.499444,
+      "longitude": 115.367222
+    },
+    "images": [
+      "/images/Jamu Sirkuma_1.webp",
+      "/images/Jamu Sirkuma_2.webp",
+      "/images/Jamu Sirkuma_3.webp"
+    ],
+    "videos": [],
+    "facilities": ["Toko Produk", "Tur Edukatif", "Pemandu Lokal Tersedia"],
+    "operatingHours": { "open": "Hubungi Pokdarwis", "close": "Hubungi Pokdarwis" },
+    "ticketPrice": { "adult": "Hubungi Pokdarwis", "child": "Hubungi Pokdarwis" },
+    "rating": 0,
+    "totalReviews": 0,
+    "featured": false
+  }
+]
